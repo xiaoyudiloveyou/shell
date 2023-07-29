@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteTargetsManager">
+    <targets>
+      <target name="root@192.168.126.130:22" type="ssh/sftp" uuid="1e55ed3b-9c56-4027-900b-3bb3294ddeaf">
+        <config>
+          <option name="serverName" value="root@192.168.126.130:22 password" />
+        </config>
+        <ContributedStateBase type="BashSupportLanguageRuntime">
+          <config />
+        </ContributedStateBase>
+      </target>
+    </targets>
+  </component>
+</project>
